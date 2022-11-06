@@ -1,0 +1,426 @@
+.rectangle-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1185px;
+  height: 1473px;
+}
+.any-question-or-remarks-just,
+.contact-us-div2 {
+  position: absolute;
+  top: 0;
+  left: 23.3%;
+  display: inline-block;
+}
+.any-question-or-remarks-just {
+  top: 72.37%;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+}
+.group-div3 {
+  position: absolute;
+  height: 9.87%;
+  width: 32.93%;
+  top: 0;
+  right: 57.9%;
+  bottom: 90.13%;
+  left: 9.17%;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+}
+.text-div {
+  position: absolute;
+  height: 20.2%;
+  width: 20.78%;
+  top: 69.73%;
+  left: 7.72%;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  display: inline-block;
+}
+.rectangle-icon8 {
+  position: absolute;
+  height: 60.61%;
+  width: 99.83%;
+  top: 39.39%;
+  right: 0;
+  bottom: 0;
+  left: 0.17%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sanderggmailcom2 {
+  position: absolute;
+  top: 55.59%;
+  left: 2.76%;
+  display: inline-block;
+  font-weight: 300;
+}
+.email-div3 {
+  position: absolute;
+  top: 252px;
+  left: 0;
+  width: 601px;
+  height: 99px;
+}
+.message-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.rectangle-icon9 {
+  position: absolute;
+  height: 84.34%;
+  width: 99.83%;
+  top: 15.66%;
+  right: 0;
+  bottom: 0;
+  left: 0.17%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.type-a-message-here {
+  position: absolute;
+  top: 55.03px;
+  left: 19.6px;
+  display: inline-block;
+  font-weight: 300;
+}
+.text-field-div {
+  position: absolute;
+  height: 32.34%;
+  width: 56.22%;
+  top: 52.08%;
+  right: 43.78%;
+  bottom: 15.58%;
+  left: 0;
+}
+.adam-sandberg-i,
+.text-div1 {
+  position: absolute;
+  display: inline-block;
+  font-weight: 300;
+}
+.text-div1 {
+  height: 20.2%;
+  width: 20.78%;
+  top: 69.73%;
+  left: 8.05%;
+  font-size: var(--font-size-base);
+}
+.adam-sandberg-i {
+  top: 55.59%;
+  left: 3.09%;
+}
+.name-field-div {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  width: 601px;
+  height: 99px;
+}
+.send-div {
+  position: relative;
+  display: inline-block;
+}
+.log-in-button2 {
+  position: absolute;
+  top: 710px;
+  left: 1px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-teal);
+  width: 600px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.group-icon {
+  position: absolute;
+  top: 569px;
+  left: 784px;
+  width: 226px;
+  height: 34px;
+}
+.we-would-love {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.our-friendly-team {
+  margin: 0;
+}
+.we-would-love-to-hear-from-you {
+  position: absolute;
+  top: 54%;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.get-in-touch {
+  position: absolute;
+  top: 0;
+  left: 21.16%;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-dm-serif-display);
+  text-align: left;
+  display: inline-block;
+}
+.group-div4 {
+  position: absolute;
+  height: 12.99%;
+  width: 32.27%;
+  top: 55.71%;
+  right: 0;
+  bottom: 31.3%;
+  left: 67.73%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.vector-icon {
+  position: absolute;
+  height: 31.25%;
+  width: 8.96%;
+  top: 6.25%;
+  right: 91.04%;
+  bottom: 62.5%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mochamkulam-edathala-aluva {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  font-weight: 300;
+  display: inline-block;
+  width: 218px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 26.04%;
+  width: 9.33%;
+  top: 73.96%;
+  right: 90.67%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div2 {
+  position: absolute;
+  top: 72.33px;
+  left: 50px;
+  font-weight: 300;
+  display: inline-block;
+}
+.group-div5 {
+  position: absolute;
+  height: 12.47%;
+  width: 25.07%;
+  top: 84.42%;
+  right: 2.15%;
+  bottom: 3.12%;
+  left: 72.78%;
+  font-size: var(--font-size-base);
+}
+.contact-div2 {
+  position: absolute;
+  height: 52.27%;
+  width: 90.21%;
+  top: 18.53%;
+  right: 3.97%;
+  bottom: 29.19%;
+  left: 5.82%;
+}
+.sammy-line-17-1-icon {
+  position: absolute;
+  top: 398px;
+  left: 793px;
+  width: 325px;
+  height: 346px;
+  object-fit: cover;
+}
+.log-in-div5 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div10 {
+  position: absolute;
+  top: calc(50% - 23.5px);
+  left: calc(50% + 396.5px);
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lg);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.apply-div2 {
+  width: 8.78%;
+  left: 21.57%;
+}
+.about-div2,
+.apply-div2,
+.contact-div3,
+.help-div2,
+.home-div2 {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.home-div2 {
+  width: 8.41%;
+  left: 0;
+}
+.about-div2,
+.contact-div3,
+.help-div2 {
+  left: 43.51%;
+}
+.contact-div3,
+.help-div2 {
+  width: 7.31%;
+  left: 66.18%;
+}
+.contact-div3 {
+  width: 13.35%;
+  left: 86.65%;
+}
+.group-div6 {
+  position: absolute;
+  height: 29.23%;
+  width: 51.86%;
+  top: 35.38%;
+  right: 20.09%;
+  bottom: 35.38%;
+  left: 28.05%;
+}
+.icons8-bright-button-48-1-12,
+.kmea-logo-white-14 {
+  position: absolute;
+  top: -3px;
+  left: 4px;
+  width: 68px;
+  height: 71px;
+  object-fit: cover;
+}
+.icons8-bright-button-48-1-12 {
+  top: 8px;
+  left: 230px;
+  width: 48px;
+  height: 48px;
+}
+.nav-white-div2 {
+  position: absolute;
+  top: 37px;
+  left: 31px;
+  width: 1131px;
+  height: 65px;
+  font-size: var(--font-size-sm);
+}
+.rectangle-div5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 1185px;
+  height: 318px;
+}
+.kmea-logo-white-15 {
+  position: absolute;
+  top: 72.58px;
+  left: 127px;
+  width: 118px;
+  height: 114.28px;
+  object-fit: cover;
+}
+.follow-us-div2 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div11 {
+  position: absolute;
+  top: 75.56px;
+  left: 995px;
+  height: 118.22px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.copyright-kmea-engineering-c2 {
+  position: absolute;
+  height: 6.51%;
+  width: 31.39%;
+  top: 84.51%;
+  left: 34.35%;
+  font-weight: 300;
+  display: inline-block;
+}
+.alumnikmeacollegeacin {
+  position: relative;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.frame-div12,
+.frame-div13 {
+  position: absolute;
+  top: 77.55px;
+  left: 407px;
+  height: 87.68px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.frame-div13 {
+  top: 78.54px;
+  left: 720px;
+  height: 118.22px;
+  gap: var(--gap-sm);
+}
+.endbar-div2 {
+  position: absolute;
+  top: 1155px;
+  left: 0;
+  width: 1185px;
+  height: 318px;
+  font-size: var(--font-size-base);
+}
+.contact-light-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1473px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

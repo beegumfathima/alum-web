@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tangerine:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-dm-serif-display: "DM Serif Display";
+  --font-almarai: Almarai;
+  --font-tangerine: Tangerine;
+  --font-inherit: inherit;
+  --font-dm-serif-text: "DM Serif Text";
+
+  /* font sizes */
+  --font-size-sm: 16px;
+  --font-size-base: 18px;
+  --font-size-lg: 20px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 36px;
+  --font-size-4xl: 40px;
+  --font-size-5xl: 48px;
+  --font-size-6xl: 72px;
+  --font-size-7xl: 128px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #e0e0e0;
+  --color-gray-200: #c4c4c4;
+  --color-gray-300: #a0a0a0;
+  --color-gray-400: #6e6e6e;
+  --color-gray-500: #676767;
+  --color-gray-600: #0c0c0c;
+  --color-gray-700: #090808;
+  --color-teal: #1c8066;
+  --color-red: #fe5727;
+
+  /* Gaps */
+  --gap-sm: 12px;
+  --gap-md: 13px;
+  --gap-lg: 78px;
+
+  /* Paddings */
+  --padding-xs: 10px;
+  --padding-sm: 21px;
+  --padding-md: 30px;
+  --padding-lg: 40px;
+
+  /* border radiuses */
+  --br-xs: 3px;
+  --br-sm: 5px;
+  --br-md: 8px;
+  --br-lg: 10px;
+  --br-xl: 200px;
+}

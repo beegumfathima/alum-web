@@ -1,0 +1,434 @@
+.rectangle-div27,
+.rectangle-div28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-600);
+  width: 1185px;
+  height: 1473px;
+}
+.rectangle-div28 {
+  background-color: var(--color-gray-700);
+  height: 318px;
+}
+.kmea-logo-white-118 {
+  position: absolute;
+  top: 72.58px;
+  left: 127px;
+  width: 118px;
+  height: 114.28px;
+  object-fit: cover;
+}
+.follow-us-div9 {
+  font-weight: 500;
+}
+.follow-us-div9,
+.twitter-div9 {
+  position: relative;
+  display: inline-block;
+}
+.frame-div43 {
+  position: absolute;
+  top: 75.56px;
+  left: 995px;
+  height: 118.22px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.copyright-kmea-engineering-c9 {
+  position: absolute;
+  height: 6.51%;
+  width: 31.39%;
+  top: 84.51%;
+  left: 34.35%;
+  font-weight: 300;
+  display: inline-block;
+}
+.alumnikmeacollegeacin4 {
+  position: relative;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.frame-div44,
+.frame-div45 {
+  position: absolute;
+  top: 77.55px;
+  left: 407px;
+  height: 87.68px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.frame-div45 {
+  top: 78.54px;
+  left: 720px;
+  height: 118.22px;
+  gap: var(--gap-sm);
+}
+.endbar-div9 {
+  position: absolute;
+  top: 1155px;
+  left: 0;
+  width: 1185px;
+  height: 318px;
+}
+.log-in-div15 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div46 {
+  position: absolute;
+  top: calc(50% - 23.5px);
+  left: calc(50% + 396.5px);
+  border-radius: var(--br-xs);
+  border: 1.5px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lg);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.apply-div9 {
+  width: 8.78%;
+  left: 21.57%;
+  cursor: pointer;
+}
+.about-div10,
+.apply-div9,
+.contact-div12,
+.help-div10,
+.home-div9 {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div9 {
+  width: 8.41%;
+  left: 0;
+}
+.about-div10,
+.contact-div12,
+.help-div10 {
+  left: 43.51%;
+  cursor: pointer;
+}
+.contact-div12,
+.help-div10 {
+  width: 7.31%;
+  left: 66.18%;
+}
+.contact-div12 {
+  width: 13.35%;
+  left: 86.65%;
+}
+.group-div31 {
+  position: absolute;
+  height: 29.23%;
+  width: 51.86%;
+  top: 35.38%;
+  right: 20.09%;
+  bottom: 35.38%;
+  left: 28.05%;
+}
+.icons8-bright-button-48-1-19,
+.kmea-logo-white-119 {
+  position: absolute;
+  top: -3px;
+  left: 4px;
+  width: 68px;
+  height: 71px;
+  object-fit: cover;
+}
+.icons8-bright-button-48-1-19 {
+  top: 8px;
+  left: 230px;
+  width: 48px;
+  height: 48px;
+}
+.nav-white-div9 {
+  position: absolute;
+  top: 37px;
+  left: 31px;
+  width: 1123px;
+  height: 65px;
+  font-size: var(--font-size-sm);
+}
+.need-help-div1 {
+  position: absolute;
+  top: 0;
+  left: 24.22%;
+  display: inline-block;
+}
+.how-can-we1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.our-team-is1 {
+  margin: 0;
+}
+.how-can-we-help-you-out-our-t1 {
+  position: absolute;
+  top: 56.7%;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+  text-align: center;
+  display: inline-block;
+}
+.group-div32 {
+  position: absolute;
+  height: 6.59%;
+  width: 32.41%;
+  top: 11.74%;
+  right: 33.76%;
+  bottom: 81.67%;
+  left: 33.84%;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+}
+.rectangle-div29 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+}
+.group-icon8 {
+  position: absolute;
+  height: 33.56%;
+  width: 3.36%;
+  top: 32.92%;
+  right: 87.6%;
+  bottom: 33.53%;
+  left: 9.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-keywords-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.line-div1 {
+  position: absolute;
+  height: 91.3%;
+  width: 0.67%;
+  top: 6.52%;
+  right: 0.16%;
+  bottom: 2.17%;
+  left: 99.17%;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.search-bar-div1,
+.search-text-div1 {
+  position: absolute;
+  height: 38.33%;
+  width: 25%;
+  top: 31.67%;
+  right: 58.58%;
+  bottom: 30%;
+  left: 16.42%;
+}
+.search-bar-div1 {
+  height: 4.07%;
+  width: 50.63%;
+  top: 21.32%;
+  right: 24.64%;
+  bottom: 74.61%;
+  left: 24.73%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset, 0 4px 4px rgba(0, 0, 0, 0.25),
+    1px 2px 12px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: #8c8c8c;
+}
+.second-question-div1 {
+  position: absolute;
+  top: 21px;
+  left: 20px;
+  display: inline-block;
+}
+.drop-down-icon3 {
+  position: absolute;
+  top: 24px;
+  left: 647px;
+  width: 20px;
+  height: 20px;
+}
+.q2-div1,
+.q3-div1,
+.rectangle-div30 {
+  position: absolute;
+  left: 0;
+  width: 687px;
+  height: 68px;
+}
+.rectangle-div30 {
+  top: 0;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.q2-div1,
+.q3-div1 {
+  top: 266px;
+}
+.q3-div1 {
+  top: 344px;
+}
+.faqs-div1,
+.frequently-asked-questions-we1 {
+  position: absolute;
+  width: 35.85%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.frequently-asked-questions-we1 {
+  width: 100%;
+  top: 72.37%;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-300);
+}
+.group-div34 {
+  position: absolute;
+  height: 18.45%;
+  width: 75.11%;
+  top: 0;
+  right: 24.89%;
+  bottom: 81.55%;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+}
+.lorem-ipsum-dolor-sit-amet-con1 {
+  position: absolute;
+  top: 61px;
+  left: 20px;
+  font-weight: 300;
+  display: inline-block;
+  width: 475px;
+}
+.first-question-div1 {
+  position: absolute;
+  top: 20px;
+  left: 19px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.drop-down-icon5 {
+  position: absolute;
+  top: 25px;
+  left: 647px;
+  width: 20px;
+  height: 20px;
+}
+.group-div33,
+.q1-div1,
+.rectangle-div32 {
+  position: absolute;
+  left: 0;
+  width: 687px;
+  height: 151px;
+}
+.rectangle-div32 {
+  top: 0;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.group-div33,
+.q1-div1 {
+  top: 105px;
+  font-size: var(--font-size-base);
+}
+.group-div33 {
+  top: 418px;
+  left: 136px;
+  height: 412px;
+  font-size: var(--font-size-xl);
+}
+.sammy-line-man-at-a-psychologi-icon1 {
+  position: absolute;
+  top: 534px;
+  left: 858px;
+  width: 274px;
+  height: 300px;
+  object-fit: cover;
+}
+.if-you-cannot-find-the-answer1,
+.still-have-questions1 {
+  position: absolute;
+  top: 60.38%;
+  left: 0;
+  display: inline-block;
+}
+.still-have-questions1 {
+  top: 0;
+  left: 49px;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+  text-align: left;
+}
+.contact-button-div1,
+.group-div35 {
+  position: absolute;
+  text-align: center;
+}
+.group-div35 {
+  height: 7.2%;
+  width: 39.32%;
+  top: 59.4%;
+  right: 30.3%;
+  bottom: 33.4%;
+  left: 30.38%;
+}
+.contact-button-div1 {
+  top: 1026px;
+  left: 508px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-teal);
+  width: 170px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-md);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+}
+.help-div9 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1473px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,386 @@
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+}
+.sign-up-div {
+  position: absolute;
+  height: 6.02%;
+  width: 13.22%;
+  top: 0;
+  left: 43.39%;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+  display: inline-block;
+}
+.new-here-create-your-account {
+  position: absolute;
+  height: 2.34%;
+  width: 28.99%;
+  top: 6.02%;
+  left: 35.36%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.first-name-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.rectangle-icon {
+  position: absolute;
+  height: 58.82%;
+  width: 100%;
+  top: 41.18%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.adam-i {
+  position: absolute;
+  top: 57.65%;
+  left: 3.55%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  font-weight: 300;
+}
+.name-div,
+.name-div1,
+.phone-div {
+  position: absolute;
+  top: 113px;
+  left: 0;
+  width: 510px;
+  height: 84px;
+}
+.name-div1,
+.phone-div {
+  left: 534px;
+  width: 487px;
+}
+.phone-div {
+  top: 220px;
+}
+.bieye-fill-icon,
+.password-icon {
+  position: absolute;
+  height: 9.41%;
+  width: 24.35%;
+  top: 65.88%;
+  right: 72.1%;
+  bottom: 24.71%;
+  left: 3.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bieye-fill-icon {
+  height: 21.18%;
+  width: 4.73%;
+  top: 60%;
+  right: 5.91%;
+  bottom: 18.82%;
+  left: 89.36%;
+}
+.password-div,
+.password-div2 {
+  position: absolute;
+  top: 327px;
+  left: 0;
+  width: 510px;
+  height: 84px;
+}
+.password-div2 {
+  left: 534px;
+  width: 487px;
+}
+.email-div1,
+.text-i {
+  position: absolute;
+  display: inline-block;
+  font-weight: 300;
+}
+.email-div1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+}
+.text-i {
+  top: 57.65%;
+  left: 3.55%;
+}
+.email-div {
+  position: absolute;
+  top: 220px;
+  left: 0;
+  width: 510px;
+  height: 84px;
+  font-size: var(--font-size-base);
+}
+.log-in-button {
+  position: absolute;
+  height: 5.46%;
+  width: 42.61%;
+  top: 50.39%;
+  right: 25.56%;
+  bottom: 44.15%;
+  left: 31.83%;
+  border-radius: var(--br-xs);
+  background-color: var(--color-teal);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.already-have-an-account {
+  width: 22.99%;
+  top: 56.97%;
+  left: 40.65%;
+  font-weight: 300;
+}
+.already-have-an-account,
+.copyright-livingstone-alumni,
+.log-in {
+  position: absolute;
+  height: 2.09%;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.log-in {
+  width: 5.81%;
+  top: 56.97%;
+  left: 58.86%;
+  text-decoration: underline;
+  font-weight: 700;
+  color: var(--color-teal);
+}
+.copyright-livingstone-alumni {
+  width: 34.61%;
+  top: 97.91%;
+  left: 18.88%;
+  font-weight: 300;
+}
+.group-div {
+  position: absolute;
+  height: 87.6%;
+  width: 70.9%;
+  top: 14.94%;
+  right: 24.58%;
+  bottom: -2.54%;
+  left: 4.51%;
+  font-size: var(--font-size-lg);
+}
+.sammy-line-man-receives-a-chec-icon {
+  position: absolute;
+  top: 373px;
+  left: 1134px;
+  width: 256px;
+  height: 214px;
+  object-fit: cover;
+}
+.rectangle-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 1461px;
+  height: 318px;
+}
+.kmea-logo-white-1 {
+  position: absolute;
+  top: 65px;
+  left: 157px;
+  width: 145px;
+  height: 140px;
+  object-fit: cover;
+}
+.follow-us-div {
+  font-weight: 500;
+}
+.follow-us-div,
+.twitter-div {
+  position: relative;
+  display: inline-block;
+}
+.frame-div {
+  position: absolute;
+  top: 75.56px;
+  left: 1226.75px;
+  width: 101.1px;
+  height: 118.22px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.copyright-kmea-engineering-c {
+  position: absolute;
+  height: 6.51%;
+  width: 31.39%;
+  top: 84.51%;
+  left: 34.35%;
+  font-weight: 300;
+  display: inline-block;
+}
+.frame-div1,
+.frame-div2 {
+  position: absolute;
+  top: 77.55px;
+  left: 501.79px;
+  width: 266.31px;
+  height: 87.68px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.frame-div2 {
+  top: 78.54px;
+  left: 887.7px;
+  width: 219.46px;
+  height: 118.22px;
+  gap: var(--gap-sm);
+}
+.endbar-div {
+  position: absolute;
+  top: 706px;
+  left: -21px;
+  width: 1461px;
+  height: 318px;
+  font-size: var(--font-size-base);
+}
+.log-in-div {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: none;
+}
+.frame-div3 {
+  position: absolute;
+  top: calc(50% - 23.5px);
+  left: calc(50% + 396px);
+  border-radius: var(--br-xs);
+  border: 1.5px solid var(--color-white);
+  box-sizing: border-box;
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lg);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.apply-div,
+.home-div {
+  position: absolute;
+  width: 8.78%;
+  top: 0;
+  left: 21.57%;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div {
+  width: 8.41%;
+  left: 0;
+}
+.about-div {
+  left: 43.51%;
+  cursor: pointer;
+}
+.about-div,
+.contact-div,
+.help-div {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.help-div {
+  width: 7.31%;
+  left: 66.18%;
+  cursor: pointer;
+}
+.contact-div {
+  width: 13.35%;
+  left: 86.65%;
+}
+.group-div1 {
+  position: absolute;
+  height: 29.23%;
+  width: 51.86%;
+  top: 35.38%;
+  right: 20.09%;
+  bottom: 35.38%;
+  left: 28.05%;
+  color: var(--color-black);
+}
+.icons8-bright-button-48-1-1,
+.kmea-logo-white-11 {
+  position: absolute;
+  top: -3px;
+  left: 4px;
+  width: 68px;
+  height: 71px;
+  object-fit: cover;
+}
+.icons8-bright-button-48-1-1 {
+  top: 8px;
+  left: 230px;
+  width: 48px;
+  height: 48px;
+}
+.nav-white-div {
+  position: absolute;
+  top: 40px;
+  left: 27px;
+  width: 1396px;
+  height: 65px;
+  color: var(--color-white);
+}
+.log-in-div1 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div4,
+.signup-light-div {
+  background-color: var(--color-white);
+}
+.frame-div4 {
+  position: absolute;
+  top: calc(50% - 459px);
+  left: calc(50% + 522px);
+  border-radius: var(--br-xs);
+  border: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lg);
+  align-items: center;
+  justify-content: center;
+}
+.signup-light-div {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

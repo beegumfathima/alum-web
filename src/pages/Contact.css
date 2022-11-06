@@ -1,0 +1,435 @@
+.rectangle-div25,
+.rectangle-div26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-600);
+  width: 1185px;
+  height: 1473px;
+}
+.rectangle-div26 {
+  background-color: var(--color-gray-700);
+  height: 318px;
+}
+.kmea-logo-white-116 {
+  position: absolute;
+  top: 72.58px;
+  left: 127px;
+  width: 118px;
+  height: 114.28px;
+  object-fit: cover;
+}
+.follow-us-div8 {
+  font-weight: 500;
+}
+.follow-us-div8,
+.twitter-div8 {
+  position: relative;
+  display: inline-block;
+}
+.frame-div39 {
+  position: absolute;
+  top: 75.56px;
+  left: 995px;
+  height: 118.22px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.copyright-kmea-engineering-c8 {
+  position: absolute;
+  height: 6.51%;
+  width: 31.39%;
+  top: 84.51%;
+  left: 34.35%;
+  font-weight: 300;
+  display: inline-block;
+}
+.frame-div40,
+.frame-div41 {
+  position: absolute;
+  top: 77.55px;
+  left: 407px;
+  height: 87.68px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.frame-div41 {
+  top: 78.54px;
+  left: 720px;
+  height: 118.22px;
+  gap: var(--gap-sm);
+}
+.endbar-div8 {
+  position: absolute;
+  top: 1155px;
+  left: 0;
+  width: 1185px;
+  height: 318px;
+}
+.log-in-div14 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div42 {
+  position: absolute;
+  top: calc(50% - 23.5px);
+  left: calc(50% + 396.5px);
+  border-radius: var(--br-xs);
+  border: 1.5px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lg);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.apply-div8 {
+  width: 8.78%;
+  left: 21.57%;
+  cursor: pointer;
+}
+.about-div9,
+.apply-div8,
+.contact-div10,
+.help-div8,
+.home-div8 {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div8 {
+  width: 8.41%;
+  left: 0;
+}
+.about-div9,
+.contact-div10,
+.help-div8 {
+  left: 43.51%;
+  cursor: pointer;
+}
+.contact-div10,
+.help-div8 {
+  width: 7.31%;
+  left: 66.18%;
+}
+.contact-div10 {
+  width: 13.35%;
+  left: 86.65%;
+}
+.group-div27 {
+  position: absolute;
+  height: 29.23%;
+  width: 51.86%;
+  top: 35.38%;
+  right: 20.09%;
+  bottom: 35.38%;
+  left: 28.05%;
+}
+.icons8-bright-button-48-1-18,
+.kmea-logo-white-117 {
+  position: absolute;
+  top: -3px;
+  left: 4px;
+  width: 68px;
+  height: 71px;
+  object-fit: cover;
+}
+.icons8-bright-button-48-1-18 {
+  top: 8px;
+  left: 230px;
+  width: 48px;
+  height: 48px;
+}
+.nav-white-div8 {
+  position: absolute;
+  top: 37px;
+  left: 31px;
+  width: 1123px;
+  height: 65px;
+  font-size: var(--font-size-sm);
+}
+.any-question-or-remarks-just1,
+.contact-us-div11 {
+  position: absolute;
+  top: 0;
+  left: 23.3%;
+  display: inline-block;
+}
+.any-question-or-remarks-just1 {
+  top: 72.37%;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-300);
+}
+.group-div28 {
+  position: absolute;
+  height: 9.87%;
+  width: 32.93%;
+  top: 0;
+  right: 57.9%;
+  bottom: 90.13%;
+  left: 9.17%;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+}
+.email-div9,
+.text-div2 {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+}
+.email-div9 {
+  top: 0;
+  left: 0;
+  color: var(--color-white);
+}
+.text-div2 {
+  height: 20.2%;
+  width: 20.78%;
+  top: 69.73%;
+  left: 7.72%;
+  font-size: var(--font-size-base);
+}
+.rectangle-icon21 {
+  position: absolute;
+  height: 60.61%;
+  width: 99.83%;
+  top: 39.39%;
+  right: 0;
+  bottom: 0;
+  left: 0.17%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sanderggmailcom5 {
+  position: absolute;
+  top: 55.59%;
+  left: 2.76%;
+  display: inline-block;
+  font-weight: 300;
+}
+.email-div8 {
+  position: absolute;
+  top: 252px;
+  left: 0;
+  width: 601px;
+  height: 99px;
+  color: var(--color-gray-400);
+}
+.message-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.rectangle-icon22 {
+  position: absolute;
+  height: 84.34%;
+  width: 99.83%;
+  top: 15.66%;
+  right: 0;
+  bottom: 0;
+  left: 0.17%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.type-a-message-here1 {
+  position: absolute;
+  top: 55.03px;
+  left: 19.6px;
+  display: inline-block;
+  font-weight: 300;
+  color: #ababab;
+}
+.text-field-div1 {
+  position: absolute;
+  height: 32.34%;
+  width: 56.22%;
+  top: 52.08%;
+  right: 43.78%;
+  bottom: 15.58%;
+  left: 0;
+}
+.adam-sandberg-i1,
+.text-div3 {
+  position: absolute;
+  display: inline-block;
+  font-weight: 300;
+}
+.text-div3 {
+  height: 20.2%;
+  width: 20.78%;
+  top: 69.73%;
+  left: 8.05%;
+  font-size: var(--font-size-base);
+}
+.adam-sandberg-i1 {
+  top: 55.59%;
+  left: 3.09%;
+}
+.name-field-div1 {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  width: 601px;
+  height: 99px;
+  color: var(--color-gray-400);
+}
+.log-in-button5 {
+  position: absolute;
+  top: 710px;
+  left: 1px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-teal);
+  width: 600px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.group-icon7 {
+  position: absolute;
+  top: 569px;
+  left: 784px;
+  width: 226px;
+  height: 34px;
+}
+.we-would-love1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.our-friendly-team1 {
+  margin: 0;
+}
+.we-would-love-to-hear-from-you1 {
+  position: absolute;
+  top: 54%;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.get-in-touch1 {
+  position: absolute;
+  top: 0;
+  left: 21.16%;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-dm-serif-display);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-div29 {
+  position: absolute;
+  height: 12.99%;
+  width: 32.27%;
+  top: 55.71%;
+  right: 0;
+  bottom: 31.3%;
+  left: 67.73%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: #5a5a5a;
+}
+.vector-icon7 {
+  position: absolute;
+  height: 31.25%;
+  width: 8.96%;
+  top: 6.25%;
+  right: 91.04%;
+  bottom: 62.5%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mochamkulam-edathala-aluva1 {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  font-weight: 300;
+  display: inline-block;
+  width: 218px;
+}
+.vector-icon8 {
+  position: absolute;
+  height: 26.04%;
+  width: 9.33%;
+  top: 73.96%;
+  right: 90.67%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.span2 {
+  color: var(--color-gray-400);
+}
+.div13 {
+  position: absolute;
+  top: 72.33px;
+  left: 50px;
+  font-weight: 300;
+  display: inline-block;
+  color: var(--color-black);
+}
+.group-div30 {
+  position: absolute;
+  height: 12.47%;
+  width: 25.07%;
+  top: 84.42%;
+  right: 2.15%;
+  bottom: 3.12%;
+  left: 72.78%;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+}
+.contact-div11 {
+  position: absolute;
+  height: 52.27%;
+  width: 90.21%;
+  top: 18.53%;
+  right: 3.97%;
+  bottom: 29.19%;
+  left: 5.82%;
+  font-size: var(--font-size-2xl);
+}
+.sammy-line-17-1-icon1 {
+  position: absolute;
+  top: 398px;
+  left: 793px;
+  width: 325px;
+  height: 346px;
+  object-fit: cover;
+}
+.contact-div9 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1473px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

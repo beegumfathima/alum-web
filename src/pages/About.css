@@ -1,0 +1,354 @@
+.rectangle-div33 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-600);
+  width: 1185px;
+  height: 4096px;
+}
+.kmea-alumni-association1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.about-div12 {
+  position: absolute;
+  height: 1.34%;
+  width: 42.78%;
+  top: 7.03%;
+  right: 30.38%;
+  bottom: 91.63%;
+  left: 26.84%;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+}
+.log-in-div16 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.apply-div10,
+.frame-div47 {
+  position: absolute;
+  cursor: pointer;
+}
+.frame-div47 {
+  top: calc(50% - 23.5px);
+  left: calc(50% + 396.5px);
+  border-radius: var(--br-xs);
+  border: 1.5px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lg);
+  align-items: center;
+  justify-content: center;
+}
+.apply-div10 {
+  width: 8.78%;
+  top: 0;
+  left: 21.57%;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div10 {
+  position: absolute;
+  width: 8.41%;
+  left: 0;
+}
+.about-div13,
+.help-div11,
+.home-div10 {
+  top: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.about-div13 {
+  position: absolute;
+  left: 43.51%;
+  cursor: pointer;
+}
+.help-div11 {
+  width: 7.31%;
+  left: 66.18%;
+}
+.contact-div13,
+.group-div36,
+.help-div11 {
+  position: absolute;
+  cursor: pointer;
+}
+.contact-div13 {
+  width: 13.35%;
+  top: 0;
+  left: 86.65%;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div36 {
+  height: 29.23%;
+  width: 51.86%;
+  top: 35.38%;
+  right: 20.09%;
+  bottom: 35.38%;
+  left: 28.05%;
+}
+.icons8-bright-button-48-1-110,
+.kmea-logo-white-120 {
+  position: absolute;
+  top: -3px;
+  left: 4px;
+  width: 68px;
+  height: 71px;
+  object-fit: cover;
+}
+.icons8-bright-button-48-1-110 {
+  top: 8px;
+  left: 230px;
+  width: 48px;
+  height: 48px;
+}
+.nav-white-div10 {
+  position: absolute;
+  top: 37px;
+  left: 31px;
+  width: 1123px;
+  height: 65px;
+  font-size: var(--font-size-sm);
+}
+.our-board-of-trustees1 {
+  position: absolute;
+  height: 3.38%;
+  width: 42.9%;
+  top: 0;
+  left: 30.67%;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+  text-align: left;
+  display: inline-block;
+}
+.dr-amar-nishad3 {
+  font-weight: 500;
+}
+.dr-amar-nishad2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.mark-brookman-amissah-oaa6 {
+  font-weight: 300;
+}
+.mark-brookman-amissah-oaa-1986 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: var(--font-size-base);
+}
+.he-loves-jazz-and-reggae-music6 {
+  margin: 0;
+}
+.dr-amar-nishad-mark-brookman-1 {
+  position: absolute;
+  top: 12px;
+  left: 296px;
+  line-height: 133.19%;
+  display: inline-block;
+  width: 714px;
+  height: 212px;
+}
+.rectangle-icon24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 245px;
+  height: 237px;
+  object-fit: cover;
+}
+.group-div37,
+.group-div38 {
+  position: absolute;
+  top: 143px;
+  left: 0;
+  width: 1010px;
+  height: 237px;
+}
+.group-div38 {
+  top: 457px;
+  left: 4px;
+}
+.group-div39,
+.rectangle-div34 {
+  position: absolute;
+  left: 0;
+  height: 237px;
+}
+.rectangle-div34 {
+  top: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-200);
+  width: 245px;
+}
+.group-div39 {
+  top: 771px;
+  width: 1010px;
+}
+.board-div1,
+.group-div40,
+.group-div41,
+.group-div42 {
+  position: absolute;
+  top: 1085px;
+  left: 4px;
+  width: 1010px;
+  height: 237px;
+}
+.board-div1,
+.group-div41,
+.group-div42 {
+  top: 1399px;
+  left: 0;
+}
+.board-div1,
+.group-div42 {
+  top: 1713px;
+}
+.board-div1 {
+  height: 47.61%;
+  width: 85.57%;
+  top: 38.99%;
+  right: 7.17%;
+  bottom: 13.4%;
+  left: 7.26%;
+  text-align: justify;
+}
+.rectangle-div38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 1185px;
+  height: 473px;
+}
+.kmea-logo-white-121 {
+  position: absolute;
+  top: 139px;
+  left: 127px;
+  width: 118px;
+  height: 116px;
+  object-fit: cover;
+}
+.follow-us-div10 {
+  font-weight: 500;
+}
+.follow-us-div10,
+.twitter-div10 {
+  position: relative;
+  display: inline-block;
+}
+.frame-div48 {
+  position: absolute;
+  top: 153px;
+  left: 995px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.copyright-kmea-engineering-c10 {
+  position: absolute;
+  top: 89.43%;
+  left: 34.35%;
+  font-weight: 300;
+  display: inline-block;
+}
+.frame-div49,
+.frame-div50 {
+  position: absolute;
+  top: 153px;
+  left: 407px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.frame-div50 {
+  left: 726px;
+  gap: var(--gap-sm);
+}
+.endbar-div10 {
+  position: absolute;
+  top: 3623px;
+  left: 0;
+  width: 1185px;
+  height: 473px;
+  font-size: var(--font-size-base);
+}
+.the-kmea-engineering1 {
+  text-indent: 1px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.the-college-has1 {
+  text-indent: 1px;
+  margin: 0;
+}
+.the-kmea-engineering-college-a1 {
+  position: absolute;
+  top: 445px;
+  left: 130px;
+  line-height: 120%;
+  font-weight: 300;
+  font-family: var(--font-almarai);
+  text-align: justify;
+  display: inline-block;
+  width: 458px;
+  height: 418px;
+}
+.image-10-icon1,
+.sammy-line-thinking-man-1-11 {
+  position: absolute;
+  top: 973px;
+  left: 202px;
+  width: 781px;
+  height: 475px;
+  object-fit: cover;
+}
+.sammy-line-thinking-man-1-11 {
+  top: 120.74px;
+  left: 0;
+  width: 315.22px;
+  height: 258.99px;
+}
+.sammy-line-lilac-question-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 236.91px;
+  width: 127.09px;
+  height: 146.42px;
+  object-fit: cover;
+}
+.group-div43 {
+  position: absolute;
+  top: 444px;
+  left: 690px;
+  width: 364px;
+  height: 379.73px;
+}
+.about-div11 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4096px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

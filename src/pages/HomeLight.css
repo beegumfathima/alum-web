@@ -1,0 +1,426 @@
+.rectangle-div18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1185px;
+  height: 4096px;
+}
+.group-icon2 {
+  position: absolute;
+  top: 1817px;
+  left: 593px;
+  width: 447px;
+  height: 447px;
+}
+.alumni-association-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.kmea-engineering-college {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.alumni-association-kmea-engine {
+  position: absolute;
+  top: 225px;
+  left: 69px;
+  line-height: 120%;
+  font-family: var(--font-dm-serif-text);
+  display: inline-block;
+  width: 682px;
+  -webkit-text-stroke: 0.5px #fff;
+  font-size: var(--font-size-6xl);
+}
+.group-icon3,
+.vector-icon2 {
+  position: absolute;
+  top: 1348.5px;
+  left: 1120.65px;
+  width: 64.35px;
+  height: 93.26px;
+}
+.group-icon3 {
+  top: 346.5px;
+  left: 689.5px;
+  width: 465px;
+  height: 535.6px;
+}
+.kmea-engineering-college-alumn {
+  position: absolute;
+  top: 570px;
+  left: 79px;
+  font-size: var(--font-size-2xl);
+  line-height: 120%;
+  font-family: var(--font-almarai);
+  display: inline-block;
+  width: 542px;
+}
+.vector-icon3 {
+  position: absolute;
+  top: 1036.25px;
+  left: 146.54px;
+  width: 58.07px;
+  height: 89.33px;
+}
+.card-original-icon {
+  position: absolute;
+  top: 1090.5px;
+  left: 114.5px;
+  width: 598px;
+  height: 404px;
+}
+.to-emerge-as {
+  margin-bottom: 0.5px;
+}
+.to-emerge-as-a-leading-institu1 {
+  margin: 0;
+  padding-left: var(--padding-sm);
+}
+.to-emerge-as-a-leading-institu {
+  position: absolute;
+  top: 1194px;
+  left: 152px;
+  font-size: var(--font-inherit);
+  font-weight: 300;
+  font-family: var(--font-inherit);
+  text-align: justify;
+  display: inline-block;
+  width: 514px;
+  height: 274px;
+}
+.vector-icon4 {
+  position: absolute;
+  top: 1422.19px;
+  left: 595.36px;
+  width: 127.26px;
+  height: 119.6px;
+}
+.achievements-div,
+.mission-vision {
+  position: absolute;
+  top: 27.47%;
+  left: 12.41%;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-dm-serif-display);
+  display: inline-block;
+}
+.achievements-div {
+  top: 56.88%;
+  left: 14.18%;
+}
+.rectangle-div19,
+.vector-icon5 {
+  position: absolute;
+  top: 2387.5px;
+  left: 919.65px;
+  width: 115.15px;
+  height: 93.26px;
+}
+.rectangle-div19 {
+  top: 1530px;
+  left: 810px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+  width: 475px;
+  height: 8px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  opacity: 0.6;
+  mix-blend-mode: normal;
+}
+.group-icon4,
+.group-icon5,
+.group-icon6 {
+  position: absolute;
+  top: 1093px;
+  left: 798px;
+  width: 32px;
+  height: 32px;
+}
+.group-icon5,
+.group-icon6 {
+  top: 1276px;
+}
+.group-icon6 {
+  top: 1459px;
+}
+.card-original-icon1 {
+  position: relative;
+  width: 431px;
+  height: 196px;
+  flex-shrink: 0;
+}
+.frame-div23 {
+  width: 940px;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-lg);
+}
+.frame-div22,
+.frame-div23,
+.frame-div24 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-div24 {
+  width: 940px;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-lg);
+  margin-left: -430px;
+}
+.frame-div22 {
+  position: absolute;
+  top: 2528px;
+  left: -129px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.vector-icon6 {
+  position: absolute;
+  top: 3472.26px;
+  left: 851.32px;
+  width: 188.34px;
+  height: 151.47px;
+}
+.div6,
+.students-div {
+  position: absolute;
+  top: 76.62%;
+  left: 0;
+  display: inline-block;
+}
+.div6 {
+  top: 0;
+  font-size: var(--font-size-7xl);
+  width: 218px;
+}
+.group-div20,
+.group-div21,
+.group-div22 {
+  position: absolute;
+  height: 3.76%;
+  width: 18.4%;
+  top: 25.51%;
+  right: 8.69%;
+  bottom: 70.73%;
+  left: 72.91%;
+}
+.group-div21,
+.group-div22 {
+  top: 29.79%;
+  right: 8.27%;
+  bottom: 66.46%;
+  left: 73.33%;
+}
+.group-div22 {
+  top: 34.08%;
+  bottom: 62.16%;
+}
+.star-div {
+  position: absolute;
+  top: 868.49px;
+  left: 633.46px;
+  background-color: var(--color-red);
+  width: 96px;
+  height: 80px;
+  transform: rotate(20.94deg);
+  transform-origin: 0 0;
+}
+.rectangle-div20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 1185px;
+  height: 473px;
+}
+.kmea-logo-white-110 {
+  position: absolute;
+  top: 153px;
+  left: 127px;
+  width: 118px;
+  height: 116px;
+  object-fit: cover;
+}
+.follow-us-div5 {
+  font-weight: 500;
+}
+.follow-us-div5,
+.twitter-div5 {
+  position: relative;
+  display: inline-block;
+}
+.frame-div25 {
+  position: absolute;
+  top: 153px;
+  left: 995px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.copyright-kmea-engineering-c5 {
+  position: absolute;
+  top: 89.43%;
+  left: 34.35%;
+  font-weight: 300;
+  display: inline-block;
+}
+.alumnikmeacollegeacin3 {
+  position: relative;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.frame-div26 {
+  position: absolute;
+  top: 153px;
+  left: 407px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.span1 {
+  color: var(--color-white);
+}
+.frame-div27 {
+  position: absolute;
+  top: 153px;
+  left: 726px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.endbar-div5 {
+  position: absolute;
+  top: 3623px;
+  left: 0;
+  width: 1185px;
+  height: 473px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+}
+.sammy-line-girl-with-a-geoloca-icon {
+  position: absolute;
+  top: 1661px;
+  left: 152px;
+  width: 405px;
+  height: 616px;
+  object-fit: cover;
+}
+.log-in-div8 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div28 {
+  position: absolute;
+  top: calc(50% - 23.5px);
+  left: calc(50% + 396.5px);
+  border-radius: var(--br-xs);
+  border: 1.5px solid var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lg);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.apply-div5 {
+  width: 8.78%;
+  left: 21.57%;
+}
+.about-div6,
+.apply-div5,
+.contact-div6,
+.help-div5,
+.home-div5 {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.home-div5 {
+  width: 8.41%;
+  left: 0;
+}
+.about-div6,
+.contact-div6,
+.help-div5 {
+  left: 43.51%;
+}
+.contact-div6,
+.help-div5 {
+  width: 7.31%;
+  left: 66.18%;
+}
+.contact-div6 {
+  width: 13.35%;
+  left: 86.65%;
+}
+.group-div23 {
+  position: absolute;
+  height: 29.23%;
+  width: 51.86%;
+  top: 35.38%;
+  right: 20.09%;
+  bottom: 35.38%;
+  left: 28.05%;
+  color: var(--color-black);
+}
+.icons8-bright-button-48-1-15,
+.kmea-logo-white-111 {
+  position: absolute;
+  top: -3px;
+  left: 4px;
+  width: 68px;
+  height: 71px;
+  object-fit: cover;
+}
+.icons8-bright-button-48-1-15 {
+  top: 8px;
+  left: 230px;
+  width: 48px;
+  height: 48px;
+}
+.nav-white-div5 {
+  position: absolute;
+  top: 37px;
+  left: 31px;
+  width: 1131px;
+  height: 65px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.icons8-bright-button-48-1 {
+  position: absolute;
+  top: 47px;
+  left: 266px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.home-light-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4096px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-tangerine);
+}
